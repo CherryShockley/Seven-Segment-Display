@@ -2,13 +2,14 @@
 #include <util/delay.h>
 
 /*
-    A = D2
+        
+    A = D2 
     B = D3
     C = D4
     D = D5
     E = D6
     F = D7
-    G = B0
+    G = B0 (D8 on Arduino)
 */
 
 void setZero()
